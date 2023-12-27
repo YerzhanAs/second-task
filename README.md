@@ -6,14 +6,8 @@
 
  JAR-файл, созданный из проекта "CalculateFunction", интегрируется в качестве библиотеки в проект "TestCalculate", что позволяет вызывать функции из класса "Calculate"  с использованием рефлексии.
 
-## Скриншоты
-### Первый проект CalculateFunction
-![img.png](TestCalculate%2Fimg.png)
-
-### Второй проект TestCalculate
-![img_1.png](TestCalculate%2Fimg_1.png)
-
 ### Результат задачи 
-![img_2.png](TestCalculate%2Fimg_2.png)
+![img_2](https://github.com/YerzhanAs/second-task/assets/103323411/7f079867-35a5-4128-a633-392d3d50efb1)
+
 
 
