@@ -8,12 +8,12 @@
 
 ## Скриншоты
 ### Первый проект CalculateFunction
-![img_1.png](TestCalculate/img_1.png)
+![img.png](img.png)
 
 ### Второй проект TestCalculate
-![img_2.png](TestCalculate/img_2.png)
+![img_1.png](img_1.png)
 
 ### Результат задачи 
-![img.png](TestCalculate/img.png)
+![img_2.png](img_2.png)
 
 
